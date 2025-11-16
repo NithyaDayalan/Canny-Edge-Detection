@@ -1,7 +1,7 @@
-# CANNY-EDGE-DETECTION
-## AIM : 
+## CANNY-EDGE-DETECTION
+### AIM : 
 To implement the canny edge detection using python program.
-## PROGRAM :
+### PROGRAM :
 ```
 NAME : NITHYA D
 REGISTER NUMBER : 212223240013
@@ -19,9 +19,9 @@ plt.subplot(122),plt.imshow(edges, cmap='gray')
 plt.title('Detected Edges'), plt.axis('off')
 plt.show()
 ```
-## OUTPUT :
+### OUTPUT :
 <img width="924" height="530" alt="image" src="https://github.com/user-attachments/assets/377c4470-f1ef-4d2c-9513-872cebb4f4e1" />
 
-## RESULT :
+### RESULT :
 Thus the program to implement the canny edge detection was executed successfully.
 
