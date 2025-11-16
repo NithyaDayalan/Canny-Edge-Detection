@@ -2,8 +2,10 @@
 ## AIM : 
 To implement the canny edge detection using python program.
 ## PROGRAM :
-### NAME : NITHYA D
-### REGISTER NUMBER : 212223240013
+```
+NAME : NITHYA D
+REGISTER NUMBER : 212223240013
+```
 ```
 import cv2
 import matplotlib.pyplot as plt
